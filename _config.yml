@@ -11,8 +11,8 @@ title                    : "Weixuan Wu"
 title_separator          : "-"
 name                     : &name "Weixuan Wu"
 description              : &description "Master student at THUIR"
-url                      : https://gstswwx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/homepage" # the subpath of your site, e.g. "/blog"
+url                      : https://gstswwx.github.io/homepage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Weixuan Wu(武伟轩)"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile.jpeg"
+  bio              : "Master student at THUIR"
   location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=THEAPMkAAAAJ&hl=zh-CN"
