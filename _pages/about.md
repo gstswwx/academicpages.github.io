@@ -14,8 +14,8 @@ I am now a first year Master student in [THUIR group](http://www.thuir.cn/), Dep
 
 # Education and Experience
 
-* [ **08.2018-present** ] Master student, Department of Computer Science and Technology, Tsinghua University, China.
-* [ **08.2014-07.2018** ] B.S., Department of Computer Science and Technology, Tsinghua University, China.
+* **08.2018-present** Master student, Department of Computer Science and Technology, Tsinghua University, China.
+* **08.2014-07.2018** B.S., Department of Computer Science and Technology, Tsinghua University, China.
 
 # Publications
 
