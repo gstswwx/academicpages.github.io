@@ -24,10 +24,10 @@
 
 main:
   - title: "About Me"
-    url: /#about_me
+    url: /#about-me
 
   - title: "Education and Experience"
-    url: /#education_and_experience
+    url: /#education-and-experience
     
   - title: "Publications"
     url: /#publications
