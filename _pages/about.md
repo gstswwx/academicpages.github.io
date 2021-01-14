@@ -10,7 +10,7 @@ redirect_from:
 
 # About me
 
-I am now a first year Master student in [THUIR group](http://www.thuir.cn/), Department of Computer Science and Technology in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about data quality analysis and fake news detection.
+I am now a third year Master student in [THUIR group](http://www.thuir.cn/), Department of Computer Science and Technology in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about data quality analysis and fake news detection.
 
 # Education and Experience
 
