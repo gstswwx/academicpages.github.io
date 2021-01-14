@@ -10,7 +10,7 @@ redirect_from:
 
 # About me
 
-I am now a first year Master student in [THUIR group](http://www.thuir.cn/), Department of Computer Science and Technology in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about data quality analysis and auti-fraudulence.
+I am now a first year Master student in [THUIR group](http://www.thuir.cn/), Department of Computer Science and Technology in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about data quality analysis and fake news detection.
 
 # Education and Experience
 
@@ -18,6 +18,8 @@ I am now a first year Master student in [THUIR group](http://www.thuir.cn/), Dep
 * **08.2014-07.2018** B.S., Department of Computer Science and Technology, Tsinghua University, China.
 
 # Publications
+
+* ***Weixuan Wu***, Jiaxin Mao, Yiqun Liu, Min Zhang and Shaoping Ma. 新闻真假判断场景下的用户搜索行为分析. 第二十六届全国信息检索学术会议 (**CCIR 2020**)
 
 * ***Weixuan Wu***, Cheng Luo, Yiqun Liu, Min Zhang and Shaoping Ma. 基于社会媒体数据的高等院校评价方法研究. 第七届全国社会媒体处理大会 (**Oral@SMP 2018**).
 
